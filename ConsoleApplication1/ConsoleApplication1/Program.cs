@@ -9,7 +9,9 @@ namespace ConsoleApplication1
     class Program
     {
         static void Main(string[] args)
-        {HashSet\//이제 시작인가
+        {
+        
+
         }
     }
 }
