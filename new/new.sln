@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 14 for Windows Desktop
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Start", "The Start\The Start.csproj", "{3F8D319C-53F5-4E37-B7A2-69FF457E1CDD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new", "new\new.csproj", "{C3D5186C-B354-4B9A-9E32-654F672122EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3F8D319C-53F5-4E37-B7A2-69FF457E1CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3F8D319C-53F5-4E37-B7A2-69FF457E1CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3F8D319C-53F5-4E37-B7A2-69FF457E1CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3F8D319C-53F5-4E37-B7A2-69FF457E1CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D5186C-B354-4B9A-9E32-654F672122EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D5186C-B354-4B9A-9E32-654F672122EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D5186C-B354-4B9A-9E32-654F672122EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D5186C-B354-4B9A-9E32-654F672122EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
